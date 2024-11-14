@@ -1,18 +1,15 @@
 # proj4
 
 Description:
-The Random Password Generator is a Python project that creates secure, random passwords. It features a GUI made with tkinter that allows users to specify password length and includes a range of character options.
+The To-Do List Application is a user-friendly GUI tool built using tkinter. It allows users to add, view, and delete tasks, making it an effective tool for task management.
 
 Requirements:
 Python 3.x
-Standard libraries:
-tkinter
-random
-string
+tkinter (included with Python)
 
 Instructions to Run:
 Ensure Python 3.x is installed on your system.
-Save the password_generator.py script to your computer.
+Save the index.py script to your computer.
 Run the script from the command line:
-python password_generator.py
-A GUI window will appear. Specify the desired password length and click the "Generate" button to create a random password.
+python index.py
+A GUI window will appear. Add tasks using the input field and "Add" button. Delete selected tasks by clicking the "Delete" button.
